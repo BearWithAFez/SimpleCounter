@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Counter</string>
+    <string name="cntrTitle">Title</string>
+    <string name="goalTitle">Goal:</string>
+    <string name="cntrGoal">100</string>
+    <string name="cntrCurrent">0</string>
+    <string name="descrRevert">a revert button</string>
+    <string name="decrClear">a clear button</string>
+    <string name="descrPlay">A play button</string>
+</resources>
